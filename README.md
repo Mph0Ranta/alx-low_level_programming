@@ -1,2 +1,1 @@
-containing a description of a repository
-Start coding with C today
+a readme at the root of the project
