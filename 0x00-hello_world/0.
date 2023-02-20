@@ -1,2 +1,0 @@
-#!/bin/bash Preprocessor
-gcc -E $CFILE -o c Preprocessor
