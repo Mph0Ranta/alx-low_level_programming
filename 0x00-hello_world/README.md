@@ -1,2 +1,1 @@
-A new readme file for a new project
-C coding
+A readme file for the "0x00. C - Hello, World" project
